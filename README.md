@@ -1,4 +1,7 @@
-# test coverage for  sass (v0.5.0)  [![npm package](https://img.shields.io/npm/v/npmtest-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sass.svg)](https://travis-ci.org/npmtest/node-npmtest-sass)
+# npmtest-sass
+
+#### basic test coverage for  sass (v0.5.0)  [![npm package](https://img.shields.io/npm/v/npmtest-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sass.svg)](https://travis-ci.org/npmtest/node-npmtest-sass)
+
 #### Syntactically Awesome Stylesheets (compiles to css)
 
 [![NPM](https://nodei.co/npm/sass.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sass)
